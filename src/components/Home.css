@@ -1,0 +1,33 @@
+
+.color {
+   background-color: black;
+   padding: 5%;
+}
+.card1{
+    padding: 1px;
+    margin: 10%;
+    height: 70%;
+    display: flex;
+    line-height: 2.6;
+    background-color:hwb(34 18% 6% / 0.884);;
+ }
+ .img1{
+    height: 50%;
+
+ }.title{
+    height: 10%;
+    text-decoration: underline;
+
+ }.text{
+    height: 10%;
+
+ }.body1{
+    height: 30%;
+    text-align: justify;
+    line-height: 1.6;
+ }.button{
+    margin-top: 95px;
+    line-height: 1.6;
+ }
+
+   
